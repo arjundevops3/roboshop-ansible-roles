@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.arjund73.shop # submit your host
+REDIS_HOST: redis.arjund73.shop
+MYSQL_HOST: mysql.arjund73.shop
+RABBITMQ_HOST: rabbitmq.arjund73.shop
+CATALOGUE_HOST: catalogue.arjund73.shop
+USER_HOST: user.arjund73.shop
+CART_HOST: cart.arjund73.shop
+SHIPPING_HOST: shipping.arjund73.shop
+PAYMENT_HOST: payment.arjund73.shop
+DISPATCH_HOST: dispatch.arjund73.shop
